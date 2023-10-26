@@ -1,0 +1,15 @@
+body{
+background-color:blue(89, 255, 0);
+}
+h1{
+font-size: 30px;
+text-align: center;
+color: aquamarine(2, 74, 49);
+}
+p {
+font-size: 20px;
+text-align: center;
+color: aquamarine;
+}
+
+
